@@ -1,4 +1,4 @@
-LineageOS
+Custom LineageOS
 ===========
 
 Getting started
